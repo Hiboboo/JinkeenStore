@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="title_background">#F5B335</color>
+
+    <color name="dividing_line">#F0F4F7</color>
+    <color name="input_bottom_line">#CCCCCC</color>
+    <color name="shadow">#7FCCCCCC</color>
+    <color name="action_border_gray">#ababab</color>
+
+    <color name="gray_text_1">#2F3743</color>
+    <color name="gray_text_2">#A0A7B2</color>
+    <color name="gray_text_3">#DDDDDD</color>
+    <color name="gray_6">#666666</color>
+    <color name="gray_9">#999999</color>
+    <color name="sky_blue">#469BFA</color>
+    <color name="sky_blue_1">#108ee9</color>
+    <color name="sky_blue_2">#1D66EC</color>
+    <color name="red">#FF4545</color>
+    <color name="orange_1">#FFA15E</color>
+    <color name="text_color_hint">#B5BAC3</color>
+    <color name="green_style1">#4fb33f</color>
+
+    <color name="action_default_color">#FFFFFF</color>
+    <color name="action_gray_ddd_color">#D6D6D6</color>
+    <color name="action_orange_color">#FF9800</color>
+    <color name="action_focus_color">#BBBBBB</color>
+    <color name="action_gray_ddd_focus_color">#c9c8c8</color>
+    <color name="action_orange_focus_color">#FFFF9800</color>
+    <color name="action_disabled_color">#DCDCDC</color>
+    <color name="action_disabled_text_color">#BCBCBC</color>
+</resources>

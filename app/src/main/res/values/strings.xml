@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">金擎商店</string>
+
+    <string name="label_download">下载</string>
+    <string name="label_upgrade">更新</string>
+    <string name="label_open">打开</string>
+    <string name="label_ver_desc">版本介绍：</string>
+    <string name="label_install">安装中&#8230;</string>
+
+    <string name="fm_label_last_ver">最新版本：%s</string>
+    <string name="fm_label_upgrade_time">更新时间：%s</string>
+    <string name="fm_download_progress">%d%%</string>
+    <string name="fm_install_failure">安装失败：%s</string>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/dp_15">
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/logo"
+            android:src="@mipmap/ic_launcher"
+            android:layout_width="@dimen/dp_54"
+            android:layout_height="@dimen/dp_54"/>
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_toEndOf="@id/logo"
+            android:layout_marginStart="@dimen/dp_15"
+            android:paddingTop="@dimen/dp_4"
+            android:text="生活+"
+            android:textColor="@color/black"
+            android:textSize="@dimen/sp_18"
+            android:textStyle="bold"/>
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/ver_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignStart="@id/name"
+            android:layout_alignBottom="@id/logo"
+            android:text="最新版本：v1.1.2"
+            android:textColor="@color/gray_text_2"
+            android:textSize="@dimen/sp_14"/>
+    </RelativeLayout>
+</layout>
